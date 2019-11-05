@@ -1,29 +1,19 @@
 {
   "todos": [
     {
-      "name": "asdf",
+      "name": "sadf",
       "isComplete": true,
       "id": 1
     },
     {
       "name": "asdf",
-      "isComplete": false,
+      "isComplete": true,
       "id": 2
     },
     {
-      "name": "asdf",
+      "name": "serew",
       "isComplete": false,
       "id": 3
-    },
-    {
-      "name": "",
-      "isComplete": true,
-      "id": 4
-    },
-    {
-      "name": "asdfsadf",
-      "isComplete": false,
-      "id": 5
     }
   ]
 }

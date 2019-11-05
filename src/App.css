@@ -2,14 +2,6 @@
   text-align: center;
 }
 
-
-.App-header {
-  background-color: #222;
-  height: 50px;
-  padding: 20px;
-  color: white;
-}
-
 .App-intro {
   font-size: large;
 }
@@ -20,7 +12,6 @@
 }
 
 .Todo-App {
-  padding-top:35px;
   display: inline-block;
   text-align: left;
 }
