@@ -11,7 +11,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-header">
-          <h2>Welcome to React with Redux</h2>
+          <h2>TODO App - POC </h2>
         </div>
         <Router>
           <div className="Todo-App">
